@@ -25,14 +25,14 @@ habilidades técnicas e soft skills.
 
 
 
-### HARD SKILLS
+###  SOFT SKILLS
 
 - Trabalho em equipe
 - Adaptabilidade a mudança
 - Aprendizado Contínuo
 - Forte Comprometimento
 - Criatividade
-###  SOFT SKILLS
+###  HARD SKILLS
 - HTML
 - CSS
 - JavaScript
