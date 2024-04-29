@@ -20,7 +20,7 @@ de deadlines, criatividade e demais
 habilidades técnicas e soft skills.
 
 ## 🔗 contatos:
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dynamic-cupcake-7b8e2a.netlify.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dashing-concha-b8fbab.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanael-pereira-431b002b8/)
 
 
