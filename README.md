@@ -5,18 +5,28 @@
 
 
 ## 🚀 Sobre mim
-Tenho uma paixão por criar interfaces interativas, intuitivas e visualmente agradáveis que proporcionam uma experiência de 
-usuário excelente. Com sólida experiência em HTML, CSS, Javascript e biblioteca modernos como React estou sempre em 
-busca de novos desafios para aplicar minhas habilidades e me manter atualizado com as últimas tendências e melhores 
-práticas do desenvolvimento web.
+💡 "Sou um Desenvolvedor Front-End apaixonado por criar interfaces dinâmicas, intuitivas e acessíveis. Com experiência prática em React e UX/UI, desenvolvo soluções otimizadas para performance e experiência do usuário. Atualmente, aplico minhas habilidades na Secretaria de Educação de Bayeux, criando sistemas que impactam diretamente a educação digital no município.
+
+🎯 Minhas especialidades incluem desenvolvimento responsivo, integração com APIs REST e boas práticas de código. Além de atuar em projetos institucionais, também trabalhei como freelancer, desenvolvendo soluções personalizadas e garantindo alta qualidade e entrega pontual.
+
+🚀 Estou sempre atualizado com as melhores tecnologias e metodologias ágeis para criar produtos que façam a diferença. Busco oportunidades para colaborar em projetos inovadores e expandir minha atuação no mercado tech."
 
 ## 🔗 contatos:
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tangerine-twilight-694f72.netlify.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanael-pereira-431b002b8/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lovely-dolphin-e62705.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanaelpereira/)
 
 
 
 ##Experiência Profissional.
+Desenvolvedor Front-End – Secretaria de Educação de Bayeux – PB. 
+2025-Atual.
+• A empresa AeC é uma empresa quer terceirizar serviço de telemarketing para outras empresas como, Nubank, Vivo, 
+99, Sky.
+• Desenvolvimento de sistemas internos para gestão educacional usando React.
+• Integração com APIs para digitalização de processos administrativos.
+• Criação de interfaces acessíveis e responsivas. 
+
+
 AeC – Relacionamento com Responsabilidade.
 Atendente telemarketing. 
 2022-2024.
