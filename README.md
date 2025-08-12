@@ -5,7 +5,7 @@
 <h1 align="center">Natanael Pereira</h1>
 <h1 align="center">Desenvolvedor Front End</h1> </br>
 
-<div align="center" gap="20px">
+<div align="center" >
   <a href="https://www.linkedin.com/in/natanaelpereira/"><img src="https://img.shields.io/static/v1?message=linkedin&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
    <a href="https://natanaelpereia.netlify.app/"><img src="https://img.shields.io/static/v1?message=portfolio&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
      <a href="https://github.com/Natanpython"><img src="https://img.shields.io/static/v1?message=Github&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
@@ -41,11 +41,6 @@
 🎯 Minhas especialidades incluem desenvolvimento responsivo, integração com APIs REST e boas práticas de código. Além de atuar em projetos institucionais, também trabalhei como freelancer, desenvolvendo soluções personalizadas e garantindo alta qualidade e entrega pontual.
 
 🚀 Estou sempre atualizado com as melhores tecnologias e metodologias ágeis para criar produtos que façam a diferença. Busco oportunidades para colaborar em projetos inovadores e expandir minha atuação no mercado tech."
-
-## 🔗 contatos:
-
-
-
 
 
 ##Experiência Profissional.
@@ -84,17 +79,11 @@ UNIFATECIE – TECNOLÓGICO EM ANÁLISE E DESENV. DE SISTEMAS.
 • Fundamentos de Redes de Computadores.
 
 
-##Skills.
-• HTML
-• CSS
-• JavaScript
-• React
-• Api 
-• Git
-• Booststrap
-• Figma
-• UI/Design
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 
 
