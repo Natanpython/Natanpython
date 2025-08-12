@@ -1,6 +1,9 @@
-
-# Natanael Pereira
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  # Natanael Pereira
 ### Desenvolvedor Front end
+</div>
+
 
 ###
 
@@ -18,8 +21,6 @@
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=booststrap" height="60" alt="Booststrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img width="12" />
