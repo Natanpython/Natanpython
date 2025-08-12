@@ -47,7 +47,11 @@
 
 
 
+<!-- Usando caminho relativo -->
+<img src="assets/pacman-contributions.svg" width="100%" alt="Pac-Man Contributions" />
 
+<!-- OU usando link RAW para funcionar mesmo fora do repositório -->
+<img src="https://raw.githubusercontent.com/Natanpython/Natanpython/refs/heads/main/assets" width="100%" alt="Pac-Man Contributions" />
 
 
 
