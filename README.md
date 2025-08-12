@@ -42,11 +42,13 @@
 
 🚀 Estou sempre atualizado com as melhores tecnologias e metodologias ágeis para criar produtos que façam a diferença. Busco oportunidades para colaborar em projetos inovadores e expandir minha atuação no mercado tech."
 
-<!-- Usando caminho relativo -->
-<img src="https://raw.githubusercontent.com/Natanpython/Natanpython/refs/heads/main/assets" width="100%" alt="Pac-Man Contributions" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Natanpython/Natanpython/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Natanpython/Natanpython/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Natanpython/Natanpython/output/pacman-contribution-graph.svg">
+</picture>
 
-<!-- OU usando link RAW para funcionar mesmo fora do repositório -->
-<img src="https://raw.githubusercontent.com/Natanpython/Natanpython/refs/heads/main/README.md" width="100%" alt="Pac-Man Contributions" />
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 
 
