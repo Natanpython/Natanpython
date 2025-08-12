@@ -2,7 +2,32 @@
 # Natanael Pereira
 ### Desenvolvedor Front end
 
+###
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="reactjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=expressjs" height="60" alt="expressjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=booststrap" height="60" alt="Booststrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=photoshop" height="60" alt="git logo"  />
+  <img width="12" />
+</div>
 
 ## 🚀 Sobre mim
 💡 "Sou um Desenvolvedor Front-End apaixonado por criar interfaces dinâmicas, intuitivas e acessíveis. Com experiência prática em React e UX/UI, desenvolvo soluções otimizadas para performance e experiência do usuário. Atualmente, aplico minhas habilidades na Secretaria de Educação de Bayeux, criando sistemas que impactam diretamente a educação digital no município.
@@ -51,6 +76,7 @@ UNIFATECIE – TECNOLÓGICO EM ANÁLISE E DESENV. DE SISTEMAS.
 • Desenvolvimento de Software Seguro.
 • Análise Estruturada de Sistemas.
 • Fundamentos de Redes de Computadores.
+
 
 ##Skills.
 • HTML
