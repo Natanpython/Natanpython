@@ -5,7 +5,7 @@
 <h1 align="center">Natanael Pereira</h1>
 <h1 align="center">Desenvolvedor Front End</h1> </br>
 
-<div align="center">
+<div align="center" gap="20px">
   <a href="https://www.linkedin.com/in/natanaelpereira/"><img src="https://img.shields.io/static/v1?message=linkedin&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
    <a href="https://natanaelpereia.netlify.app/"><img src="https://img.shields.io/static/v1?message=portfolio&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
      <a href="https://github.com/Natanpython"><img src="https://img.shields.io/static/v1?message=Github&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
