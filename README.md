@@ -43,47 +43,21 @@
 🚀 Estou sempre atualizado com as melhores tecnologias e metodologias ágeis para criar produtos que façam a diferença. Busco oportunidades para colaborar em projetos inovadores e expandir minha atuação no mercado tech."
 
 
-##Experiência Profissional.
-Desenvolvedor Front-End – Secretaria de Educação de Bayeux – PB. 
-2025-Atual.
-• A empresa AeC é uma empresa quer terceirizar serviço de telemarketing para outras empresas como, Nubank, Vivo, 
-99, Sky.
-• Desenvolvimento de sistemas internos para gestão educacional usando React.
-• Integração com APIs para digitalização de processos administrativos.
-• Criação de interfaces acessíveis e responsivas. 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-
-AeC – Relacionamento com Responsabilidade.
-Atendente telemarketing. 
-2022-2024.
-• A empresa AeC é uma empresa quer terceirizar serviço de telemarketing para outras empresas como, Nubank, Vivo, 
-99, Sky.
-• Vendas de plano controle.
-• Assistência técnica.
-• Ativação de planos.
-
-Digitador – Secretaria de Saúde de Prince Isabel PB.
-Digitador.
-2024-atual.
-• A secretaria de saúde de Princesa Isabel PB, digitaliza toda demanda de atendimento médico ao SUS seja consulta, 
-exames ou retorno.
-• Digitalizar demandas de consulta.
-• Atendimento ao público.
-• Liberar exames.
-
-##Formação.
-UNIFATECIE – TECNOLÓGICO EM ANÁLISE E DESENV. DE SISTEMAS.
-2024 - Cursando.
-• Desenvolvimento de Software Seguro.
-• Análise Estruturada de Sistemas.
-• Fundamentos de Redes de Computadores.
-
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
+
+
+
 
 
 
