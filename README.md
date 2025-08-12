@@ -42,17 +42,14 @@
 
 🚀 Estou sempre atualizado com as melhores tecnologias e metodologias ágeis para criar produtos que façam a diferença. Busco oportunidades para colaborar em projetos inovadores e expandir minha atuação no mercado tech."
 
-<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-pacman/output/github-contribution-grid-snake.svg" width="100%" />
-
-###
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Natanpython/Natanpython/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Natanpython/Natanpython/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Natanpython/Natanpython/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
 
 
 
