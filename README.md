@@ -48,7 +48,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Natanpython/Natanpython/output/pacman-contribution-graph.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/Natanpython/Natanpython/main/assets/pacman.svg" width="100%" alt="Pac-Man Contributions" />
+<img src="https://raw.githubusercontent.com/Natanpython/Natanpython/refs/heads/main/assets" width="100%" alt="Pac-Man Contributions" />
 
 
 
