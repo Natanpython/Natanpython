@@ -46,7 +46,7 @@
 <img src="https://raw.githubusercontent.com/Natanpython/Natanpython/refs/heads/main/assets" width="100%" alt="Pac-Man Contributions" />
 
 <!-- OU usando link RAW para funcionar mesmo fora do repositório -->
-<img src="https://raw.githubusercontent.com/Natanpython/NOME-DO-REPOSITORIO/main/assets/pacman-contributions.svg" width="100%" alt="Pac-Man Contributions" />
+<img src="https://raw.githubusercontent.com/Natanpython/Natanpython/refs/heads/main/README.md" width="100%" alt="Pac-Man Contributions" />
 
 
 
