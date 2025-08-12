@@ -42,6 +42,7 @@
 
 🚀 Estou sempre atualizado com as melhores tecnologias e metodologias ágeis para criar produtos que façam a diferença. Busco oportunidades para colaborar em projetos inovadores e expandir minha atuação no mercado tech."
 
+<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-pacman/output/github-contribution-grid-snake.svg" width="100%" />
 
 ###
 
