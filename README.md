@@ -3,7 +3,7 @@
   
 </div align="center">
 <h1 align="center">Natanael Pereira</h1>
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&vCenter=true&width=700&height=76&lines=Desenvolvedor+Front+End" alt="cargo" /></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=fina+code&weight=600&size=50&pause=1000&color=2581A9&vCenter=true&width=700&height=100&lines=Desenvolvedor+front+End" alt="cargo" /></div>
   <div> </br>
 
 <div align="center" >
