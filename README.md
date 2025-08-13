@@ -42,15 +42,18 @@
 
 🚀 Estou sempre atualizado com as melhores tecnologias e metodologias ágeis para criar produtos que façam a diferença. Busco oportunidades para colaborar em projetos inovadores e expandir minha atuação no mercado tech."
 
-<!-- Pacman Contributions -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Natanpython/Natanpython/main/assets/pacman-contributions.svg" alt="Pacman Contributions" />
-</p>
 
----
 
-<!-- Estatísticas do GitHub -->
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Natanpython&show_icons=true&theme=tokyonight" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natanpython&layout=compact&theme=tokyonight" />
 </p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Natanpython/Natanpython/main/assets/pacman-contributions.svg" alt="Pacman Contributions" />
+</p>
+
+
+
+
