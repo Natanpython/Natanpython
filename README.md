@@ -3,7 +3,8 @@
   
 </div align="center">
 <h1 align="center">Natanael Pereira</h1>
-<h1 align="center">Desenvolvedor Front End</h1> </br>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=Desenvolvedor+Front+End)](https://git.io/typing-svg" alt="cargo" /></div>
+  div> </br>
 
 <div align="center" >
   <a href="https://www.linkedin.com/in/natanaelpereira/"><img src="https://img.shields.io/static/v1?message=linkedin&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
