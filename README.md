@@ -41,15 +41,15 @@
 🎯 Minhas especialidades incluem desenvolvimento responsivo, integração com APIs REST e boas práticas de código. Além de atuar em projetos institucionais, também trabalhei como freelancer, desenvolvendo soluções personalizadas e garantindo alta qualidade e entrega pontual.
 
 🚀 Estou sempre atualizado com as melhores tecnologias e metodologias ágeis para criar produtos que façam a diferença. Busco oportunidades para colaborar em projetos inovadores e expandir minha atuação no mercado tech."
+</br>
 
-
-
+--
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Natanpython&show_icons=true&theme=tokyonight" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natanpython&layout=compact&theme=tokyonight" />
 </p>
 
-
+--
 <p align="center">
   <img src="https://raw.githubusercontent.com/Natanpython/Natanpython/main/assets/pacman-contributions.svg" alt="Pacman Contributions" />
 </p>
