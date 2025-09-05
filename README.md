@@ -37,12 +37,12 @@
   <img width="12" />
 </div>
 
-## 🚀 Sobre mim
-💡 "Sou um Desenvolvedor Front-End apaixonado por criar interfaces dinâmicas, intuitivas e acessíveis. Com experiência prática em React e UX/UI, desenvolvo soluções otimizadas para performance e experiência do usuário. Atualmente, aplico minhas habilidades na Secretaria de Educação de Bayeux, criando sistemas que impactam diretamente a educação digital no município.
+##  Sobre mim
+  "Sou um Desenvolvedor Front-End apaixonado por criar interfaces dinâmicas, intuitivas e acessíveis. Com experiência prática em React e UX/UI, desenvolvo soluções otimizadas para performance e experiência do usuário. Atualmente, aplico minhas habilidades na Secretaria de Educação de Bayeux, criando sistemas que impactam diretamente a educação digital no município.
 
-🎯 Minhas especialidades incluem desenvolvimento responsivo, integração com APIs REST e boas práticas de código. Além de atuar em projetos institucionais, também trabalhei como freelancer, desenvolvendo soluções personalizadas e garantindo alta qualidade e entrega pontual.
+   Minhas especialidades incluem desenvolvimento responsivo, integração com APIs REST e boas práticas de código. Além de atuar em projetos institucionais, também trabalhei como freelancer, desenvolvendo soluções personalizadas e garantindo alta qualidade e entrega pontual.
 
-🚀 Estou sempre atualizado com as melhores tecnologias e metodologias ágeis para criar produtos que façam a diferença. Busco oportunidades para colaborar em projetos inovadores e expandir minha atuação no mercado tech."
+   Estou sempre atualizado com as melhores tecnologias e metodologias ágeis para criar produtos que façam a diferença. Busco oportunidades para colaborar em projetos inovadores e expandir minha atuação no mercado tech."
 </br></br>
 
 
