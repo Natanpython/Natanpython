@@ -21,6 +21,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="nodejs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=expressjs" height="60" alt="expressjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
