@@ -42,11 +42,12 @@
 </div>
 
 ##  Sobre mim
-  "Sou Desenvolvedor Full-Stack com experiência em ReactJS, Typescript, Node.js e PostgreSQL, especializado em UX/UI, integração de APIs REST e aplicações web responsivas. Atuo em projetos com metodologias ágeis, aplicando boas práticas de código, performance e acessibilidade. Busco oportunidades para crescer como Desenvolvedor.
+  Desenvolvedor Full Stack com experiência em aplicações web utilizando React, TypeScript,
+Node.js e NestJS. Atuei na construção do MVP do sistema do PROCON da Paraíba,
+desenvolvendo soluções completas do front-end ao back-end. Possuo experiência com APIs REST,
+PostgreSQL, Prisma ORM e deploy com Docker e Nginx. Focado em código limpo, arquitetura bem
+estruturada e entrega de soluções eficientes.
 
-   Minhas especialidades incluem desenvolvimento responsivo, integração com APIs REST e boas práticas de código. Além de atuar em projetos institucionais, também trabalhei como freelancer, desenvolvendo soluções personalizadas e garantindo alta qualidade e entrega pontual.
-
-   Estou sempre atualizado com as melhores tecnologias e metodologias ágeis para criar produtos que façam a diferença. Busco oportunidades para colaborar em projetos inovadores e expandir minha atuação no mercado tech."
 </br></br>
 
 
