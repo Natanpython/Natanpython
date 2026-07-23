@@ -37,10 +37,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=h2" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jpa" height="60" alt="java logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="amazonwebservices logo"  />
