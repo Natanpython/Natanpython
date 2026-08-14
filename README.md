@@ -6,10 +6,7 @@
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=fina+code&weight=600&size=50&pause=1000&color=2581A9&vCenter=true&width=750&height=100&lines=Desenvolvedor+Back-End+Java" alt="cargo" /></div>
   <div> </br>
 
-<div align="center" >
-  <a href="https://www.linkedin.com/in/natanaelpereira/"><img src="https://img.shields.io/static/v1?message=linkedin&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-   <a href="https://natanael-pereira.netlify.app/"><img src="https://img.shields.io/static/v1?message=portfolio&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-</div></br>
+</br>
 
 
 <div align="center">
