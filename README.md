@@ -46,11 +46,15 @@
 </div>
 
 ##  Sobre mim
-  Desenvolvedor Full Stack com experiência em aplicações web utilizando React, TypeScript,
-Node.js e NestJS. Atuei na construção do MVP do sistema do PROCON da Paraíba,
-desenvolvendo soluções completas do front-end ao back-end. Possuo experiência com APIs REST,
-PostgreSQL, Prisma ORM e deploy com Docker e Nginx. Focado em código limpo, arquitetura bem
-estruturada e entrega de soluções eficientes.
+ Desenvolvedor Back-end Java com experiência no desenvolvimento de sistemas corporativos e aplicações web utilizando Java, Spring Boot, Spring Data JPA e Hibernate, além de experiência em Node.js, NestJS, React e TypeScript, o que me permite compreender todo o ciclo de desenvolvimento de software.
+
+Atualmente atuo no desenvolvimento de soluções para a Secretaria Municipal de Educação de Bayeux, criando e evoluindo sistemas voltados à gestão pública. Também participei do desenvolvimento do MVP do Sistema PROCON da Paraíba, contribuindo na implementação de funcionalidades de backend e APIs para um sistema governamental.
+
+Tenho experiência na construção de APIs REST, autenticação e autorização com Spring Security (OAuth2/JWT), modelagem e otimização de bancos de dados PostgreSQL, utilização de Spring Data JPA, Hibernate, JPQL, tratamento global de exceções e arquitetura em camadas.
+
+Também possuo experiência com Docker, Git/GitHub, CI/CD, Nginx, Postman, metodologias ágeis (Scrum/Kanban) e boas práticas como Clean Code, SOLID e princípios de arquitetura de software.
+
+Estou em constante evolução técnica e busco oportunidades para atuar como Desenvolvedor Back-end Java, contribuindo na construção de aplicações escaláveis, seguras e de alta qualidade.
 
 </br></br>
 
