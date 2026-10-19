@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/natanaelpereira/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111827?style=for-the-badge&amp;labelColor=111827&amp;color=164e63" alt="Conectar no LinkedIn" /></a>
-  <a href="https://natanael-pereira.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-111827?style=for-the-badge&amp;labelColor=111827&amp;color=37306b" alt="Explorar portfólio" /></a>
-  <a href="mailto:natanaelpereira745@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET'S_TALK-111827?style=for-the-badge&amp;labelColor=111827&amp;color=164e63" alt="Conversar por e-mail" /></a>
+  <a href="https://natanaelp.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-111827?style=for-the-badge&amp;labelColor=111827&amp;color=37306b" alt="Explorar portfólio" /></a>
+  <a href="mailto:natanaeldesenvolvedorweb@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET'S_TALK-111827?style=for-the-badge&amp;labelColor=111827&amp;color=164e63" alt="Conversar por e-mail" /></a>
 </p>
 
 <p align="center">
@@ -28,26 +28,52 @@ Na **Secretaria Municipal de Educação de Bayeux**, desenvolvo sistemas de gest
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Backend &amp; dados</h3>
-      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,postgres,prisma&amp;theme=dark&amp;perline=6" width="300" alt="Java, Spring, Node.js, NestJS, PostgreSQL e Prisma" />
-      <p>Spring Data JPA · Hibernate · SQL<br />Spring Security · OAuth2 · JWT</p>
+    <th width="33%" align="center">Backend &amp; dados</th>
+    <th width="34%" align="center">Frontend &amp; interface</th>
+    <th width="33%" align="center">Ferramentas &amp; entrega</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <br />
+      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,postgres,prisma&amp;theme=dark&amp;perline=3" width="156" alt="Java, Spring, Node.js, NestJS, PostgreSQL e Prisma" />
+      <br /><br />
+      <strong>Java · Spring · Node.js</strong><br />
+      <strong>NestJS · PostgreSQL · Prisma</strong>
+      <br /><br />
     </td>
-    <td width="50%" valign="top">
-      <h3>Frontend &amp; experiência</h3>
-      <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,figma&amp;theme=dark&amp;perline=6" width="300" alt="React, TypeScript, JavaScript, HTML, CSS e Figma" />
-      <p>Interfaces responsivas · Acessibilidade<br />Integração com APIs REST</p>
+    <td align="center" valign="top">
+      <br />
+      <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,figma&amp;theme=dark&amp;perline=3" width="156" alt="React, TypeScript, JavaScript, HTML, CSS e Figma" />
+      <br /><br />
+      <strong>React · TypeScript · JavaScript</strong><br />
+      <strong>HTML · CSS · Figma</strong>
+      <br /><br />
+    </td>
+    <td align="center" valign="top">
+      <br />
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,maven,postman&amp;theme=dark&amp;perline=3" width="156" alt="Git, GitHub, GitHub Actions, Docker, Maven e Postman" />
+      <br /><br />
+      <strong>Git · GitHub · GitHub Actions</strong><br />
+      <strong>Docker · Maven · Postman</strong>
+      <br /><br />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <sub>APIs REST · JPA / Hibernate<br />Spring Security · OAuth2 / JWT</sub>
+    </td>
+    <td align="center">
+      <sub>Interfaces responsivas · Acessibilidade<br />Integração com APIs REST</sub>
+    </td>
+    <td align="center">
+      <sub>Versionamento · Containers<br />Build · CI/CD · Validação de APIs</sub>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <br />
-  <img src="https://skillicons.dev/icons?i=git,github,docker,maven,postman&amp;theme=dark" width="240" alt="Git, GitHub, Docker, Maven e Postman" /><br />
-  <sub>VERSIONAMENTO &nbsp; / &nbsp; CONTAINERS &nbsp; / &nbsp; BUILD &nbsp; / &nbsp; APIs</sub>
+  <sub>PRINCÍPIOS &nbsp; / &nbsp; Arquitetura em camadas · Clean Code</sub>
 </p>
-
-<p align="center">Arquitetura em camadas · Clean Code · CI/CD com GitHub Actions</p>
 
 <br />
 
@@ -95,8 +121,8 @@ Cursando **Análise e Desenvolvimento de Sistemas** e aprofundando conhecimentos
 <p align="center">
   <strong>Vamos construir a próxima solução?</strong><br /><br />
   <a href="https://www.linkedin.com/in/natanaelpereira/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:natanaelpereira745@gmail.com">natanaelpereira745@gmail.com</a> &nbsp; / &nbsp;
-  <a href="https://natanael-pereira.netlify.app/">Portfólio</a>
+  <a href="mailto:natanaeldesenvolvedorweb@gmail.com">natanaeldesenvolvedorweb@gmail.com</a> &nbsp; / &nbsp;
+  <a href="https://natanaelp.netlify.app/">Portfólio</a>
 </p>
 
 <p align="center"><sub>NATANAEL PEREIRA &nbsp; · &nbsp; BACKEND FOCUS. FULL STACK VISION.</sub></p>
