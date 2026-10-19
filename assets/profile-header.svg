@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Natanael Pereira — Desenvolvedor Full Stack</title>
+<desc id="desc">Foco em Java e Spring Boot. APIs REST, aplicações web e gestão pública.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#10283d"/></linearGradient><linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient></defs>
+<rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+<g fill="none" stroke="#38bdf8" opacity=".12"><circle cx="1080" cy="150" r="190"/><circle cx="1080" cy="150" r="140"/><circle cx="1080" cy="150" r="90"/><path d="M820 0v300M920 0v300M1020 0v300M1120 0v300M800 50h400M800 150h400M800 250h400"/></g>
+<rect x="58" y="51" width="48" height="5" rx="2" fill="url(#accent)"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="58" y="119" font-size="49" font-weight="700" fill="#f0f6fc">Natanael Pereira</text>
+<text x="60" y="165" font-size="24" fill="#38bdf8">Desenvolvedor Full Stack</text>
+<text x="60" y="205" font-size="20" fill="#cbd5e1">Java &amp; Spring Boot · React · TypeScript</text>
+<text x="60" y="252" font-size="16" fill="#94a3b8">APIs REST / Aplicações web / Gestão pública</text>
+<text x="945" y="177" font-size="76" font-family="Consolas,monospace" fill="#2dd4bf" opacity=".8">&lt;/&gt;</text></g>
+</svg>
